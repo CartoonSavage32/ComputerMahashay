@@ -80,7 +80,7 @@ def generate_text():
     # Get the current screenshot
     screenshot = get_screenshot()
     # Initialize OpenAI API
-    openai.api_key = "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"
+    openai.api_key = "YOUR_OPENAI_API_KEY"
     model_id = "visual-chatbot-9"
     # Generate text from the screenshot using Visual ChatGPT
     response = openai.Completion.create(
