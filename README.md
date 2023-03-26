@@ -1,7 +1,7 @@
-Sasta Jarvis
-============
+Persist Ventures
+================
 
-Sasta Jarvis is a Python program that uses different APIs and libraries to perform various tasks, such as transcribing audio to text, generating text from a screenshot, and executing commands.
+Persist ventures is a Python program that uses different APIs and libraries to perform various tasks, such as transcribing audio to text, generating text from a screenshot, and executing commands.
 
 Dependencies
 ------------
